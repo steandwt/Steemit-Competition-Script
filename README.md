@@ -5,7 +5,7 @@ This script is intended for people who host competitions on Steemit. Often the e
 ## Prerequisites
 You need to have at least **Python version 3.5** or newer as well as **pip**. 
 
-## installation
+## Installation
 In order to use this script you need to have the steem-python library installed. You can get it by running the following command: 
 ````$ pip install steem````
 
